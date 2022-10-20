@@ -1,0 +1,41 @@
+.Catagary{
+    background-color: rgb(16, 252, 252);
+    margin: 5px;
+    width: 40%;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px 2px rgb(205, 231, 205);
+    
+}
+
+.RightContainer{
+  
+    width: 70vw;
+    margin :1rem
+}
+.setUpPlan{
+    margin-bottom: 10px;
+    background-color: rgb(145, 206, 145);
+    border-radius: 10px;
+    padding: 5px 15px;
+    box-shadow: 2px 2px rgb(215, 246, 215);
+}
+.Center-30{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.profileContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 300%;
+    align-items: center
+}
+.profile{
+    width: 50px;
+    padding: 10px;
+    border:1px solid black;
+    border-radius: 50%;
+  
+}

@@ -1,0 +1,46 @@
+.MainContaiNer {
+  margin: 50px;
+  margin-right: 50px;
+}
+.ChildContainer {
+  width: 80vw;
+  height: 120px;
+  background-color: rgb(212, 211, 215);
+  margin: 10px;
+  box-shadow: 2px 2px 2px 2px rgb(163, 164, 190);
+}
+.TitleColor {
+  color: rgb(24, 87, 181);
+}
+.Err {
+  color: red;
+  text-align: center;
+}
+.Center-30 {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+  margin-left: 30px;
+}
+.button {
+  background-color: aqua;
+}
+.profileContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 300%;
+  align-items: center;
+}
+.profile {
+  width: 100px;
+  /* padding: 10px; */
+  border: 1px solid black;
+  /* border-radius: 50%; */
+}

@@ -1,0 +1,11 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.backbutton{
+    background-color: rgb(101, 185, 231);
+    border-radius: 5px;
+    padding: 5px 25px;
+    /* border: 2px solod white; */
+}

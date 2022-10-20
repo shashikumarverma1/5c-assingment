@@ -1,0 +1,16 @@
+.PageNotFound{
+    color:rgb(80, 80, 210);
+    background-color: black;
+  padding: 100px;
+  width:50%;
+  border-radius: 100px;
+}
+.Center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.margintTop{
+    margin-top: 10vh;
+}
